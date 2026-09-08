@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Drogaria Mais Saude">
+  <rect width="64" height="64" rx="10" fill="#194f9f"/>
+  <path d="M26 10h12v16h16v12H38v16H26V38H10V26h16z" fill="#d51f3f"/>
+  <path d="M29 13h6v16h16v6H35v16h-6V35H13v-6h16z" fill="#fff"/>
+</svg>
